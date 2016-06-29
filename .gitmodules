@@ -1,3 +1,0 @@
-[submodule "pcb/kicad"]
-	path = pcb/kicad
-	url = git@github.com:realthunder/hmo_pcb_ibk.git
